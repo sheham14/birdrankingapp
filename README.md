@@ -7,7 +7,7 @@ NOTE: An android emulator, or android device with Expo Go will be required to la
 
 Clone the project
 
-  git clone https://github.com/UnusualFrog/FavoriteBirdsAppReact
+  git clone https://github.com/sheham14/birdrankingapp/tree/main
 Go to the project directory
 
   cd FavoriteBirdsAppReact
