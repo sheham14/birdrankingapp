@@ -11,12 +11,10 @@ Clone the project
 Go to the project directory
 
   cd FavoriteBirdsAppReact
-Install dependencies
+Install dependencies - npm install
 
-  npm install
-Start the server
+Start the server - npm start
 
-  npm start
 Launch the App on an emulator
 
   Press a │ open Android
